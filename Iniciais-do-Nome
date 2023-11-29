@@ -1,0 +1,16 @@
+#Create an initials.py program that displays your initials in block letters.
+
+#First, start the program with a comment that says a fun fact about yourself.
+
+#Then, create your block letters with your initials.
+
+#For example, if your name is Dua Lipa, your initials would be D and L, and your block letters would look like this:
+
+# My initials are V and A
+print("V   V   A  ")
+print("V   V  A A ")
+print("V   V A   A")
+print("V   V AAAAA")
+print("V   V A   A")
+print(" V V  A   A")
+print("  V   A   A")
